@@ -1,0 +1,19 @@
+{
+  "name": "simple-hotel-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulgakovd97/simple-hotel-check.git"
+  },
+  "author": "Denis Bulgakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulgakovd97/simple-hotel-check/issues"
+  },
+  "homepage": "https://github.com/bulgakovd97/simple-hotel-check#readme"
+}
